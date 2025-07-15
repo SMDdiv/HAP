@@ -48,7 +48,7 @@ To execute the analysis:
 python main.py
 ```
 ---
-## 🧾 Column Descriptions (inferred)
+## 🧾 Column Descriptions 
 
 - `age`: Age of the patient
 - `sex`: Sex (1 = male; 0 = female)
